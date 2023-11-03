@@ -8,10 +8,6 @@ min-width: de cima até aquele valor*/
 
 @media screen and (max-width:481px) {
 
-    .principal {
-        text-align: center;
-    }
-
     #div1 {
         text-align: center;
         padding-bottom: 10px;
@@ -57,6 +53,7 @@ min-width: de cima até aquele valor*/
         text-align: center;
         padding-top: 0px;
         padding-left: 0px;
+        padding-right: 2px;
     }
 
     header p {

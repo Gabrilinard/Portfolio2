@@ -29,11 +29,6 @@
         background-color: beige;
         transform: scale(1.2);
     }
-
-    div.principal {
-        text-align: center;
-        
-    }
     
     header img#imgprincipal {
         width: 210px;
@@ -49,7 +44,6 @@
         font-size: 1.7em;
         color: rgba(255, 255, 255, 0.916);
         font-family: 'Barlow', sans-serif; 
-        text-align: center;
     }
 
     div#div1 {
