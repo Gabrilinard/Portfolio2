@@ -1485,7 +1485,7 @@ min-width: de cima até aquele valor*/
         text-align: center;
         padding-left: 435px;
         padding-top: 80px;
-        padding-bottom: 88px;
+        padding-bottom: 5px;
     }
     #div3 {
         padding-top: 120px;
@@ -1507,9 +1507,9 @@ min-width: de cima até aquele valor*/
         text-align: left;
         color: rgb(255, 255, 255);
         font-family: 'Barlow', sans-serif;
-        padding-top: 5px;
+        padding-top: 0px;
         padding-bottom: 15px;
-        padding-left: 515px;
+        padding-left: 514px;
         width: 465px;
     }
 
