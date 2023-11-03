@@ -7,12 +7,6 @@ min-width: de cima até aquele valor*/
 @import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
 
 @media screen and (max-width:481px) {
-    .principal div#div3{
-        text-align: center;
-        margin: auto;
-        display: block;
-        width: auto;
-    }
 
     .principal {
         text-align: center;
@@ -48,15 +42,20 @@ min-width: de cima até aquele valor*/
         margin-top: 70px;
     }
 
-    header .principal #div3 h1 {
+    header h1 {
         font-size: 1.5em;
         color: rgba(255, 255, 255, 0.916);
         font-family: 'Barlw', sans-serif; 
         text-align: center;
         margin-top: 10px;
+        margin: auto;
+        display: block;
         padding-top: 0px;
         width: 285px;
         padding-left: 0px;
+        padding-top: 30px;
+        padding-bottom: 5px;
+        padding-right: 0px;
     }
 
     header .principal #div3 h2 {
@@ -65,10 +64,11 @@ min-width: de cima até aquele valor*/
         font-family: 'Barlow', sans-serif;  
         text-align: center;
         padding-top: 0px;
-        padding-right: 72px;
+        padding-right: 52px;
+        padding-left: 0px;
     }
 
-    header .principal #div3 p {
+    header p {
         font-size: 1.1em;
         text-align: justify;
         color: rgba(255, 255, 255, 0.966);
@@ -78,16 +78,6 @@ min-width: de cima até aquele valor*/
         margin: auto;
         display: block;
         width: 275px;
-    }
-
-    h3 {
-        color: white;
-        font-size: 1.4em;
-        font-family: 'Barlow', sans-serif;
-        color: rgba(255, 255, 255, 0.916);
-        text-align: center;
-        padding-top: 40px;
-        
     }
 
     div#skills{

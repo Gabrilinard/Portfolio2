@@ -51,15 +51,10 @@
         color: rgba(255, 255, 255, 0.916);
         font-family: 'Barlow', sans-serif; 
         text-align: center;
-        margin: auto;
-        display: block;
         padding-left: 80px;
-    }
-
-    header .principal h1 {
         padding-top: 30px;
         padding-bottom: 5px;
-        font-size: 1.9rem;
+        padding-right: 0px;
     }
 
     div#div1 {
@@ -84,15 +79,6 @@
         display: block;
         padding-left: 72px;
         width: 300px;
-    }
-    
-    h3 {
-        color: white;
-        font-size: 1.0em;
-        font-family: 'Barlow', sans-serif;
-        color: rgba(255, 255, 255, 0.916);
-        text-align: center;
-        padding-top: 30px;
     }
     
     b.b1 {
