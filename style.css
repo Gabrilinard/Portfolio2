@@ -51,6 +51,10 @@
         color: rgba(255, 255, 255, 0.916);
         font-family: 'Barlow', sans-serif; 
         text-align: center;
+        padding-left: 80px;
+        padding-top: 30px;
+        padding-bottom: 5px;
+        padding-right: 0px;
     }
 
     div#div1 {
