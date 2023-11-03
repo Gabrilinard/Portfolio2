@@ -10,8 +10,6 @@ min-width: de cima até aquele valor*/
 
     .principal {
         text-align: center;
-        margin: auto;
-        display: block;
     }
 
     #div1 {
@@ -46,15 +44,10 @@ min-width: de cima até aquele valor*/
         font-size: 1.4em;
         color: rgba(255, 255, 255, 0.916);
         font-family: 'Barlw', sans-serif; 
-        text-align: center;
         margin-top: 10px;
-        margin: auto;
-        display: block;
-        padding-top: 0px;
-        padding-left: 33px;
+        padding-left: 32px;
         padding-top: 30px;
         padding-bottom: 5px;
-        padding-right: 0px;
     }
 
     header .principal #div3 h2 {
@@ -64,7 +57,6 @@ min-width: de cima até aquele valor*/
         text-align: center;
         padding-top: 0px;
         padding-left: 0px;
-        padding-right: 0px;
     }
 
     header p {
@@ -156,7 +148,7 @@ min-width: de cima até aquele valor*/
 
 }
 
-@media screen and (min-width: 481px) and (max-width: 589px) {
+@media screen and (min-width: 482px) and (max-width: 589px) {
     div.principal {
         display: flex;
     }
@@ -171,7 +163,7 @@ min-width: de cima até aquele valor*/
         margin-right: 5px;
         display: flex;
         position: absolute;
-        left: 40px;
+        left: 35px;
         top: 65px
     }
 
@@ -183,12 +175,12 @@ min-width: de cima até aquele valor*/
     }
 
     header img#imgprincipal {
-        width: 190px;
-        height: 380px;
+        width: 170px;
+        height: 340px;
         position: absolute;
         border-radius: 20px; 
         top: 120px;
-        left: 35px;
+        left: 25px;
     }
 
 
@@ -197,7 +189,8 @@ min-width: de cima até aquele valor*/
         color: rgba(255, 255, 255, 0.916);
         font-family: 'Barlow', sans-serif; 
         text-align: center;
-        padding-left: 265px;
+        padding-left: 235px;
+        padding-top: 50px;
     }
 
     #div3 {
@@ -211,25 +204,25 @@ min-width: de cima até aquele valor*/
         color: rgba(255, 255, 255, 0.916);
         font-family: 'Barlow', sans-serif;  
         text-align: center;
-        padding-bottom: 20px;
-        padding-left: 240px;
+        padding-bottom: 15px;
+        padding-left: 215px;
     }
     
     header p {
         font-size: 0.9em;
         color: rgb(255, 255, 255);
         font-family: 'Barlow', sans-serif;
-        padding-top: 5px;
+        padding-top: 0px;
         padding-bottom: 15px;
-        padding-left: 273px;
-        width: 220px;
+        padding-left: 228px;
+        width: 200px;
     }
 
     hr {
-        width: 460px;
+        width: 500px;
         margin: auto;
         display: block;
-        margin-top: 275px;
+        margin-top: 255px;
     }
 
     div#skills{
@@ -408,6 +401,7 @@ min-width: de cima até aquele valor*/
         font-family: 'Barlow', sans-serif; 
         text-align: center;
         padding-left: 265px;
+        padding-top: 50px;
     }
 
     #div3 {
@@ -618,6 +612,8 @@ min-width: de cima até aquele valor*/
         font-family: 'Barlow', sans-serif; 
         text-align: center;
         padding-left: 245px;
+        padding-top: 50px;
+        
     }
 
     #div3 {
@@ -830,6 +826,7 @@ min-width: de cima até aquele valor*/
         font-family: 'Barlow', sans-serif; 
         text-align: center;
         padding-left: 315px;
+        padding-top: 60px;
     }
 
     #div3 {
@@ -1045,6 +1042,7 @@ min-width: de cima até aquele valor*/
         font-family: 'Barlow', sans-serif; 
         text-align: center;
         padding-left: 285px;
+        padding-top: 60px;
     }
 
     #div3 {
@@ -1489,15 +1487,9 @@ min-width: de cima até aquele valor*/
         font-family: 'Barlow', sans-serif; 
         text-align: center;
         padding-left: 435px;
-    }
-
-    header .principal h1.h1 {
-        padding-top: 30px;
-        padding-left: 230px;
+        padding-top: 80px;
         padding-bottom: 88px;
-        font-size: 3.0rem;
     }
-
     #div3 {
         padding-top: 120px;
         text-align: center;
@@ -1720,6 +1712,7 @@ min-width: de cima até aquele valor*/
         color: rgba(255, 255, 255, 0.916);
         font-family: 'Barlow', sans-serif; 
         text-align: center;
+        padding-top: 40px;
         padding-left: 675px;
     }
 
