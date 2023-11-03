@@ -54,7 +54,7 @@ min-width: de cima até aquele valor*/
         font-family: 'Barlw', sans-serif; 
         text-align: justify;
         margin-top: 10px;
-        padding-left: 60px;
+        padding-left: 65px;
         padding-top: 0px;
         width: 290px;
     }
@@ -92,7 +92,7 @@ min-width: de cima até aquele valor*/
     div#skills{
         display: grid;
         margin-top: 40px;
-        grid-template-columns: 110px 155px;
+        grid-template-columns: 110px 100px;
         grid-auto-rows: 90px 90px;
         justify-content: space-evenly;
     }
