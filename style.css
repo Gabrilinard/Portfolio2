@@ -1,0 +1,265 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+/* font-family: 'Barlow', sans-serif; */
+
+
+    * {
+        margin: 0px;
+        padding: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+       background-color:  rgba(0, 0, 0, 0.893);
+    }
+
+    div#div3 {
+        text-align: center;
+    }
+
+    /*Header*/
+    header img {
+        width: 27px;
+        padding: 10px;
+    }
+    
+    header #div1 img:hover {
+        padding: 2px;
+        background-color: beige;
+        transform: scale(1.2);
+    }
+
+    div.principal {
+        text-align: center;
+        margin: auto;
+        display: block;
+    }
+    
+    header img#imgprincipal {
+        width: 210px;
+        height: 210px;
+        margin: auto;
+        display: block;
+        border: 3.56px solid rgb(187, 24, 187);
+        border-radius: 5px;
+        margin-top: 20px;
+    }  
+    
+    header h1 {
+        font-size: 1.7em;
+        color: rgba(255, 255, 255, 0.916);
+        font-family: 'Barlow', sans-serif; 
+        text-align: center;
+        margin: auto;
+        display: block;
+        padding-left: 80px;
+    }
+
+    header .principal h1 {
+        padding-top: 30px;
+        padding-bottom: 5px;
+        font-size: 1.9rem;
+    }
+
+    div#div1 {
+        padding-top: 15px;
+    }
+    
+     header h2 {
+        font-size: 1.7em;
+        color: rgba(255, 255, 255, 0.916);
+        font-family: 'Barlow', sans-serif;  
+        text-align: center;
+        padding-left: 20px;
+    }
+    
+    header p {
+        font-size: 1.3em;
+        text-align: justify;
+        color: rgba(255, 255, 255, 0.966);
+        font-family: 'Barlow', sans-serif;
+        padding-top: 20px;
+        margin: auto;
+        display: block;
+        padding-left: 72px;
+        width: 300px;
+    }
+    
+    h3 {
+        color: white;
+        font-size: 1.0em;
+        font-family: 'Barlow', sans-serif;
+        color: rgba(255, 255, 255, 0.916);
+        text-align: center;
+        padding-top: 30px;
+    }
+    
+    b.b1 {
+        border-bottom: 3px solid  rgb(187, 24, 187);
+    }
+    
+    b.b2 {
+        border-bottom: 2px solid rgb(187, 24, 187);
+    }
+    
+    b.b3 {
+        border-bottom: 2px solid rgb(187, 24, 187);
+    }
+
+    #b {
+        padding-top: 5px;
+    }
+
+    hr {
+        width: 600px;
+        margin: auto;
+        display: block;
+        margin-top: 100px;
+    }
+
+    /*Tabela*/
+
+    div#skills{
+        display: grid;
+        margin-top: 40px;
+        grid-template-columns: 150px 100px;
+        grid-auto-rows: 100px 100px;
+        justify-content: space-evenly;
+    }
+
+    div#skills h1 {
+         font-size: 1.6em;
+         color: rgba(255, 255, 255, 0.855);
+    }
+
+    div#skills p {
+        font-size: 0.7em;
+        font-family: 'Barlow', sans-serif;
+        color: rgba(185, 184, 184, 0.942);
+        
+    }
+
+
+    /*Tabela2 */
+
+    #tabela2 h1 b{
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    #tabela2 {
+        margin-top: 40px;
+        margin-bottom: 90px;
+        text-align: center;
+    }
+
+    div#tabela2 h1 {
+        font-size: 2.3rem;
+        color: rgba(255, 255, 255, 0.916);
+    }
+
+
+    b.b3 {
+        color: rgba(255, 255, 255, 0.916);
+        font-size: 0.8rem;    
+    }
+
+    #b {
+        padding-top: 45px;
+    }
+    
+    
+    /* Fotos + Texto*/
+
+    aside div#imagens h1 {
+        color: rgba(255, 255, 255, 0.93);
+        font-size: 1.2em;
+        padding: 10px;
+    }
+        
+
+    aside div#imagens h1 {
+        color: rgba(255, 255, 255, 0.797);
+        font-size: 0.8em;
+        padding: 5px;
+        padding-bottom: 80px;
+        text-align: center;
+    }
+    
+    img#linha1, img#linha2, img#linha3, img#linha4 {
+        height: 180px;
+        width: 200px;
+        border-radius: 10px;
+        border: 2px solid purple;
+        margin: auto;
+        display: block;
+    }
+
+    .linha1, .linha2 {
+        text-align: center;
+    }
+
+    h1.linha6 {
+        font-size: 1.3em;
+    }
+    
+    
+    /*Footer*/
+    
+    #geral {
+        display: flex;
+        text-align: center;
+        margin: auto;
+    }
+
+    #img {
+        text-align: center;
+        margin: auto;
+        display: block;
+    }
+
+    footer {
+        background-color: rgb(48, 47, 47);
+        padding: 30px;
+        
+    }
+
+    .footer .imgextra {
+            border-radius: 10px;
+            width: 110px;
+            height: 170px;
+            padding-top: 20px;
+        }
+
+
+    footer h1 {
+        color: rgba(247, 247, 247, 0.966);
+        font-size: 2.8em;
+        font-family: 'Barlow', sans-serif;
+        margin: 0px;
+        text-align: left;
+    }
+    
+    footer #geral p {
+        color: rgba(255, 255, 255, 0.907);
+        font-size: 1.4rem;
+        font-family: 'Barlow', sans-serif;
+        text-align: left;
+        padding-left: 5px;
+        width: 500px;
+    }
+
+    #img img {
+        width: 24px;
+        padding: 0px;
+        margin-left: 8px;
+    } 
+
+    .imgs {
+        text-align: left;
+        padding-top: 30px;
+        padding-right: 50px;
+    }
+
+   
