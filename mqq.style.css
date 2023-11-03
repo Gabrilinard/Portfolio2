@@ -54,7 +54,7 @@ min-width: de cima até aquele valor*/
         font-family: 'Barlw', sans-serif; 
         text-align: justify;
         margin-top: 10px;
-        padding-left: 65px;
+        padding-left: 60px;
         padding-top: 0px;
         width: 290px;
     }
@@ -138,27 +138,28 @@ min-width: de cima até aquele valor*/
         font-size: 1.8em;
         font-family: 'Barlow', sans-serif;
         margin: 0px;
+        margin-bottom: 10px;
         text-align: left;
     }
     
     footer #geral p {
         color: rgba(255, 255, 255, 0.907);
-        font-size:  1.1rem;
+        font-size:  1.0rem;
         font-family: 'Barlow', sans-serif;
-        text-align: left;
-        padding-left: 3px;
-        width: 200px;
+        text-align: justify;
+        padding-left: 1px;
+        width: 180px;
     }
 
     #img img {
         width: 24px;
         padding: 0px;
-        margin-left: 8px;
+        margin-left: 0px;
     } 
 
     .imgs {
         text-align: left;
-        padding-top: 30px;
+        padding-top: 25px;
         padding-right: 50px;
     }
 
@@ -1883,7 +1884,7 @@ min-width: de cima até aquele valor*/
         font-family: 'Barlow', sans-serif;
         margin: 0px;
         text-align: left;
-        padding-bottom: 30px;
+        padding-bottom: 20px;
     }
     
     footer #geral p {
