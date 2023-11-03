@@ -56,7 +56,7 @@ min-width: de cima até aquele valor*/
         margin-top: 10px;
         padding-left: 9px;
         padding-top: 0px;
-        
+        width: 300px;
     }
 
     header .principal #div3 h2 {
@@ -65,7 +65,7 @@ min-width: de cima até aquele valor*/
         font-family: 'Barlow', sans-serif;  
         text-align: center;
         padding-top: 0px;
-        padding-right: 58px;
+        padding-right: 60px;
     }
 
     header .principal #div3 p {
