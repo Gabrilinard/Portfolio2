@@ -49,23 +49,23 @@ min-width: de cima até aquele valor*/
     }
 
     header .principal #div3 h1 {
-        font-size: 1.4em;
+        font-size: 1.5em;
         color: rgba(255, 255, 255, 0.916);
         font-family: 'Barlw', sans-serif; 
-        text-align: justify;
+        text-align: center;
         margin-top: 10px;
-        padding-left: 66px;
+        padding-left: 15px;
         padding-top: 0px;
-        width: 290px;
+        
     }
 
     header .principal #div3 h2 {
-        font-size: 1.6em;
+        font-size: 1.55em;
         color: rgba(255, 255, 255, 0.916);
         font-family: 'Barlow', sans-serif;  
         text-align: center;
         padding-top: 0px;
-        padding-right: 10px;
+        padding-right: 58px;
     }
 
     header .principal #div3 p {
@@ -76,7 +76,8 @@ min-width: de cima até aquele valor*/
         padding-top: 25px;
         padding-left: 0px;
         margin: auto;
-        width: 220px;
+        display: block;
+        width: 265px;
     }
 
     h3 {
