@@ -161,10 +161,11 @@ min-width: de cima até aquele valor*/
 
     .footer .imgextra {
         border-radius: 20px;
-        width: 120px;
+        width: 130px;
         height: 160px;
         padding-top: 10px;
         padding-right: 0px;
+        padding-left: 15px;
     }
 
 
