@@ -363,16 +363,16 @@ min-width: de cima até aquele valor*/
 
     .footer .imgextra {
         border-radius: 20px;
-        width: 150px;
-        height: 200px;
+        width: 140px;
+        height: 190px;
         padding-top: 10px;
-        padding-right: 40px;
+        padding-right: 30px;
     }
 
 
     footer h1 {
         color: rgba(247, 247, 247, 0.966);
-        font-size: 2.4em;
+        font-size: 2.3em;
         font-family: 'Barlow', sans-serif;
         margin: 0px;
         text-align: left;
@@ -381,10 +381,10 @@ min-width: de cima até aquele valor*/
     
     footer #geral p {
         color: rgba(255, 255, 255, 0.907);
-        font-size:  1.0rem;
+        font-size:  0.9rem;
         font-family: 'Barlow', sans-serif;
         text-align: justify;
-        width: 250px;
+        width: 240px;
         padding-right: 10px;
     }
 
