@@ -31,9 +31,9 @@ min-width: de cima até aquele valor*/
     }
 
     header img#imgprincipal {
-        width: 200px;
-        height: 280px;
-        border-radius: 20px; 
+        width: 180px;
+        height: 180px;
+        border-radius: 50%; 
         margin: auto;
         display: block;
         border: 2.5px solid rgb(187, 24, 187);
